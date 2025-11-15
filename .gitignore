@@ -1,0 +1,13 @@
+# model
+*.bin
+
+# Python-specific files
+__pycache__/
+
+# Data and model files
+*.pkl
+*.npz
+*.gguf
+recycle_dataset/
+taco_dataset/
+runs/
