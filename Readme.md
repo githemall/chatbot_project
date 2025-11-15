@@ -7,7 +7,8 @@ PDF 형태의 동아리 내규를 기반으로, 사용자의 질문에 대해 24
 ## 🖼️ 데모 스크린샷
 
 
-*(챗봇이 "동아리방 사용 시간은 24시간 개방입니다..."라고 답변하는 스크린샷을 여기에 삽입하세요.)*
+<img width="1091" height="808" alt="image" src="https://github.com/user-attachments/assets/4e77b0e0-143c-4556-83e7-cda1284cbd34" />
+
 
 ---
 
